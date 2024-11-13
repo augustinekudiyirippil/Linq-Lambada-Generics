@@ -1,0 +1,15 @@
+D:\Augustine\Linq-Lambada-Generics\Linq-Lambada-Generics\Linq-Lambada-Generics\bin\Debug\net6.0\Linq-Lambada-Generics.exe
+D:\Augustine\Linq-Lambada-Generics\Linq-Lambada-Generics\Linq-Lambada-Generics\bin\Debug\net6.0\Linq-Lambada-Generics.deps.json
+D:\Augustine\Linq-Lambada-Generics\Linq-Lambada-Generics\Linq-Lambada-Generics\bin\Debug\net6.0\Linq-Lambada-Generics.runtimeconfig.json
+D:\Augustine\Linq-Lambada-Generics\Linq-Lambada-Generics\Linq-Lambada-Generics\bin\Debug\net6.0\Linq-Lambada-Generics.dll
+D:\Augustine\Linq-Lambada-Generics\Linq-Lambada-Generics\Linq-Lambada-Generics\bin\Debug\net6.0\Linq-Lambada-Generics.pdb
+D:\Augustine\Linq-Lambada-Generics\Linq-Lambada-Generics\Linq-Lambada-Generics\obj\Debug\net6.0\Linq-Lambada-Generics.csproj.AssemblyReference.cache
+D:\Augustine\Linq-Lambada-Generics\Linq-Lambada-Generics\Linq-Lambada-Generics\obj\Debug\net6.0\Linq-Lambada-Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Augustine\Linq-Lambada-Generics\Linq-Lambada-Generics\Linq-Lambada-Generics\obj\Debug\net6.0\Linq-Lambada-Generics.AssemblyInfoInputs.cache
+D:\Augustine\Linq-Lambada-Generics\Linq-Lambada-Generics\Linq-Lambada-Generics\obj\Debug\net6.0\Linq-Lambada-Generics.AssemblyInfo.cs
+D:\Augustine\Linq-Lambada-Generics\Linq-Lambada-Generics\Linq-Lambada-Generics\obj\Debug\net6.0\Linq-Lambada-Generics.csproj.CoreCompileInputs.cache
+D:\Augustine\Linq-Lambada-Generics\Linq-Lambada-Generics\Linq-Lambada-Generics\obj\Debug\net6.0\Linq-Lambada-Generics.dll
+D:\Augustine\Linq-Lambada-Generics\Linq-Lambada-Generics\Linq-Lambada-Generics\obj\Debug\net6.0\refint\Linq-Lambada-Generics.dll
+D:\Augustine\Linq-Lambada-Generics\Linq-Lambada-Generics\Linq-Lambada-Generics\obj\Debug\net6.0\Linq-Lambada-Generics.pdb
+D:\Augustine\Linq-Lambada-Generics\Linq-Lambada-Generics\Linq-Lambada-Generics\obj\Debug\net6.0\Linq-Lambada-Generics.genruntimeconfig.cache
+D:\Augustine\Linq-Lambada-Generics\Linq-Lambada-Generics\Linq-Lambada-Generics\obj\Debug\net6.0\ref\Linq-Lambada-Generics.dll
