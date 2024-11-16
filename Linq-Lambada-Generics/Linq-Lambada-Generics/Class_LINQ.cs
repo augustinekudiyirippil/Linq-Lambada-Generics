@@ -12,7 +12,7 @@ namespace Linq_Lambada_Generics
     {
 
 
-            IList<Student> studentList = new List<Student>() {
+            public IList<Student> studentList = new List<Student>() {
             new Student() { StudentID = 1, StudentName = "Augustine", Age = 18, StandardID = 1 } ,
             new Student() { StudentID = 2, StudentName = "Meera",  Age = 21, StandardID = 1 } ,
             new Student() { StudentID = 3, StudentName = "Chacko",  Age = 18, StandardID = 2 } ,
@@ -22,7 +22,7 @@ namespace Linq_Lambada_Generics
             new Student() { StudentID = 5, StudentName = "Thomas" , Age = 4}
             };  
 
-            IList<Standard> standardList = new List<Standard>() {
+            public IList<Standard> standardList = new List<Standard>() {
             new Standard(){ StandardID = 1, StandardName="Standard 1"},
             new Standard(){ StandardID = 2, StandardName="Standard 2"},
             new Standard(){ StandardID = 3, StandardName="Standard 3"}

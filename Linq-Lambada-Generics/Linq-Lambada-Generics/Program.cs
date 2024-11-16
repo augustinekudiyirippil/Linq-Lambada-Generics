@@ -129,3 +129,92 @@ catch(Exception ex)
 
     Console.WriteLine(ex.Message.ToString());
 }
+
+
+Console.WriteLine("------------------------------");
+Console.WriteLine("\n");
+Console.WriteLine("\n");
+Console.WriteLine("\n");
+
+
+
+try
+{
+     
+
+    Class_Lambada class_Lambada = new Class_Lambada();
+    Console.WriteLine("The Student is Teenager ?   " + class_Lambada.checkTeenagerStudent().ToString()) ;
+
+
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message.ToString());
+
+}
+
+
+Console.WriteLine("------------------------------");
+try
+{
+
+
+    Class_Lambada class_Lambada = new Class_Lambada();
+    Console.WriteLine("The Student is younger than 18 ?   " + class_Lambada.checkYoungerThan18().ToString());
+
+
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message.ToString());
+
+}
+
+
+
+Console.WriteLine("------------------------------");
+try
+{
+
+    Student student = new Student()
+    {
+        StudentID = 1,
+        StudentName = "Augustine",
+        Age = 24,
+        StandardID = 1
+    };
+
+    Class_Lambada class_Lambada = new Class_Lambada();
+    class_Lambada.addStudent( student);
+
+    Console.WriteLine("The Student Added "); 
+
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message.ToString());
+
+}
+
+try
+{
+
+    
+    Class_Lambada class_Lambada = new Class_Lambada();
+    class_Lambada.getTeenStudentNames();
+
+     
+
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message.ToString());
+
+}
+
+
+Console.WriteLine("------------------------------");
+Class_Generics  class_Generics     = new Class_Generics();
+class_Generics.genericsMethod();
+
+
